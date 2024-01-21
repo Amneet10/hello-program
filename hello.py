@@ -4,3 +4,6 @@ def say_hello():
 
 def say_bye():
     return "Bye"
+
+def say_good_morning():
+    return "Good Morning"
